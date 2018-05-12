@@ -1,0 +1,43 @@
+_repo: The-Lost-Wagon_34697
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Orbaan, Albert
+    alias: Orbaan, Al
+    birthdate: 1913
+    deathdate: 1983
+    gutenberg_agent_id: '37173'
+    url: http://www.gutenberg.org/2009/agents/37173
+  - agent_name: McCann, Gerald
+    gutenberg_agent_id: '37174'
+    url: http://www.gutenberg.org/2009/agents/37174
+covers:
+- cover_type: archival
+  image_path: 34697-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kjelgaard, Jim
+    aliases:
+    - Kjelgaard, James Arthur
+    - Elgard, Jim
+    birthdate: 1910
+    deathdate: 1959
+    gutenberg_agent_id: '37042'
+    url: http://www.gutenberg.org/2009/agents/37042
+    wikipedia: http://en.wikipedia.org/wiki/Jim_Kjelgaard
+description: When disaster strikes, Joe Tower knows he must leave hi Missouri farm.
+gutenberg_issued: '2010-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34697'
+  lccn: '55007163'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pioneers -- United States -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Oregon National Historic Trail -- Fiction'
+title: The Lost Wagon
+url: http://www.gutenberg.org/ebooks/34697
