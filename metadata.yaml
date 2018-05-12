@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37042
     wikipedia: http://en.wikipedia.org/wiki/Jim_Kjelgaard
 description: When disaster strikes, Joe Tower knows he must leave hi Missouri farm.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34697#The-Lost-Wagon
 gutenberg_issued: '2010-12-19'
 gutenberg_type: Text
 identifiers:
